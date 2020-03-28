@@ -1,0 +1,3 @@
+# from GitHub
+- src: git+https://github.com/sivasankarkondabathini/role-mysql.git
+  version: master
